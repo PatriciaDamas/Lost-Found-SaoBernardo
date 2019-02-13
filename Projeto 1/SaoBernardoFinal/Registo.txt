@@ -1,0 +1,8 @@
+1#claudia#claudiadamas27@gmail.com#B103#26-05-2016#22:58#1#Azul#Bom#aaaaaa
+2#bbbb#bbbbb#B202#30-05-2016#14:51#1#Branco#Razoável#22222
+4#Jose#jose@eseig.ipp.pt#B103#11-04-2016#05:55#2#Azul#Razoável#rompida
+5#Adelaide#jose@eseig.ipp.pt#B103#11-05-2016#05:55#2#Azul#Razoável#rompida
+6#Teresa#maria@eseig.ipp.pt#B103#30-05-2016#06:55#3#Azul#Mau#rompida
+7#aaaa#aaaaaa#B103#12-06-2016#16:15#1#Azul#Bom#7777777777
+8#Flavia#fcastro@eseig.ipp.pt#B500#13-05-2014#03:55#1#azul#bom#retangular
+9#Maria#mcastro@eseig.ipp.pt#B500#12-05-2014#03:55#1#azul#bom#retangular
